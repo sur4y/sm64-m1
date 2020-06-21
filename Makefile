@@ -501,7 +501,7 @@ ifeq ($(ENABLE_OPENGL),1)
   endif
   ifeq ($(TARGET_OSX),1)
     GFX_CFLAGS += $(shell sdl2-config --cflags)
-    GFX_LDFLAGS += $(shell sdl2-config --libs) -framework OpenGL `pkg-config --libs glfw3 glew`
+    GFX_LDFLAGS += $(shell sdl2-config --libs) -framework OpenGL `pkg-config --libs glew`
   endif
   ifeq ($(TARGET_WEB),1)
     GFX_CFLAGS  += -s USE_SDL=2
