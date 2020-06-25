@@ -1,4 +1,3 @@
-UNAME := $(shell uname)
 ifeq ($(UNAME),Darwin)
   TARGET_OSX := -DTARGET_OSX
 endif
