@@ -1,5 +1,7 @@
 # Super Mario 64 Port
 
+Read the wiki for build instructions: https://github.com/Zoltar007/target_osx/wiki
+
 - This repo contains a full decompilation of Super Mario 64 (J), (U), and (E) with minor exceptions in the audio subsystem.
 - Naming and documentation of the source code and data structures are in progress.
 - Efforts to decompile the Shindou ROM steadily advance toward a matching build.
