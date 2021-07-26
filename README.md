@@ -5,7 +5,7 @@ Read the wiki for build instructions: https://github.com/Zoltar007/target_osx/wi
 - This repo contains a full decompilation of Super Mario 64 (J), (U), and (E) with minor exceptions in the audio subsystem.
 - Naming and documentation of the source code and data structures are in progress.
 - Efforts to decompile the Shindou ROM steadily advance toward a matching build.
-- Beyond Nintendo 64, it can also target Linux and Windows natively.
+- Beyond Nintendo 64, it can also target Linux, Windows and macOS (tested on an Apple Silicon MacBook Air on Big Sur 11.5) natively.
 
 This repo does not include all assets necessary for compiling the game.
 A prior copy of the game is required to extract the assets.
