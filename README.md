@@ -1,5 +1,7 @@
 # Super Mario 64 Port
 
+### NOTE: Please download the source code from the latest release, not by downloading the .zip of the code directly as I have not yet figured out why my setup is working despite having made the same changes to the repo I forked this from.
+
 Read the wiki for build instructions: https://github.com/Zoltar007/target_osx/wiki
 
 - This repo contains a full decompilation of Super Mario 64 (J), (U), and (E) with minor exceptions in the audio subsystem.
