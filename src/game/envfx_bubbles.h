@@ -3,6 +3,7 @@
 
 #include <PR/ultratypes.h>
 #include <PR/gbi.h>
+#include <strings.h>
 
 #define ENVFX_STATE_UNUSED          0
 #define ENVFX_STATE_SRC_X           1 // whirlpool / jetsream bubble source position
