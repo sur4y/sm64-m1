@@ -454,7 +454,7 @@ endif
 ifneq ($(TARGET_OSX),1)
 CPP := cpp -P
 else
-CPP := cpp-11 -P
+CPP := cpp-12 -P
 endif
 
 ifneq ($(TARGET_OSX),1)
